@@ -1,2 +1,2 @@
 # SSON-VBNET
-VisualBasic .Net implementation of SSON
+VisualBasic .Net implementation of [SSON](https://github.com/RealDoigt/simple-stupid-object-notation) 1.0
